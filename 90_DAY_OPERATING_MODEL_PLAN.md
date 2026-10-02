@@ -3,7 +3,7 @@
 > **Sample / illustrative. "The agency" is fictional. Nothing here is based on a real client, engagement or confidential material.** Prepared by Kunjar Bhaduri, Bhaduri Advisory, October 2, 2026, with AI drafting assistance under my direction. Assumes 2 to 3 days a week.
 
 ## The tension an agency CTO has to resolve
-Four demands pull on the same senior people: **strategy** (where the technology practice is going), **roadmap** (the agency's own products and accelerators), **presales** (pitches, estimates, solution designs) and **delivery** (client work that pays the bills). When nobody owns the balance, presales and delivery win every week and the agency's own initiatives stall.
+Four demands pull on the same senior people: **strategy** (where the technology practice is going), **roadmap** (the agency's own products and accelerators), **presales** (pitches, estimates, solution designs) and **delivery** (client work that pays the bills). When nobody owns the balance, presales and delivery usually win and the agency's own initiatives stall.
 
 ## Days 1 to 30: understand the organization as it is
 - One-to-ones with every technology leader and the heads of client services and new business.
