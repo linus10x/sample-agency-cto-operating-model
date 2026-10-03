@@ -2,7 +2,7 @@
 
 Document review October 2-3, 2026 America/Chicago. Fictional organization only. There is no code to run.
 
-The review covers disclosure, role mapping, supported claims, evidence traceability, capacity/effort/cost arithmetic, accountable owners, acceptance tests and required role duties. No completed client implementation or commercial win is claimed.
+The review covers disclosure, supported claims, evidence traceability, effort and cost arithmetic, accountable owners and acceptance tests. No completed client implementation or commercial win is claimed.
 
 ## Source identity before this record
 
@@ -10,6 +10,6 @@ SHA-256 binds this record to the source. Changes require rechecking affected ass
 
 | File | SHA-256 |
 |---|---|
-| `90_DAY_OPERATING_MODEL_PLAN.md` | `53235c49b3fa443971b4c394637a9fa5f23d0f23fc0be1e0f4d09c9f828afec4` |
+| `90_DAY_OPERATING_MODEL_PLAN.md` | `869056dae36d4cd66e64bb22b310dd53d26e2edf140c97ff221d1cae50a641ee` |
 | `LICENSE` | `037df8cb655d4ff33487e5052e79b617699db575004c68f7e122187b8de7d67f` |
-| `README.md` | `727000b6b483e677504d4edbff7c1cf4cfb57b735ced3c12d1310c2be609b7bf` |
+| `README.md` | `aad7bf3f0ed6451b902190f7f18608aa8467236244b6d530ab66e0f924d959b1` |

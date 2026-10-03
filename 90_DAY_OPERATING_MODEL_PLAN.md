@@ -1,6 +1,6 @@
 # SAMPLE: first 90 days as a fractional agency CTO
 
-> **Illustrative sample by Kunjar Bhaduri, Bhaduri Advisory. Fictional organization and invented evidence only. No client relationship or confidential engagement material. Prepared with AI drafting assistance under my direction. Revised October 2, 2026 (America/Chicago).**
+> **Illustrative sample by Kunjar Bhaduri, Bhaduri Advisory. Fictional organization and invented evidence only. No client relationship or confidential engagement material. Prepared with AI drafting assistance under my direction. Revised October 3, 2026 (America/Chicago).**
 
 ## Mandate and working assumptions
 
