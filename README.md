@@ -1,15 +1,7 @@
-# SAMPLE: first 90 days as fractional CTO of a digital agency
+# SAMPLE: fractional CTO operating model for an agency
 
-> **Illustrative sample for a fictional agency. No client relationship. Not based on any real engagement or confidential material.** Prepared by Kunjar Bhaduri (Bhaduri Advisory), October 2, 2026, with AI drafting assistance under my direction.
+> **Illustrative sample by Kunjar Bhaduri, Bhaduri Advisory. Fictional organization and invented evidence only. No client relationship or confidential engagement material. Prepared with AI drafting assistance under my direction. Revised October 2, 2026 (America/Chicago).**
 
-## What it is
-`90_DAY_OPERATING_MODEL_PLAN.md`: how I'd balance strategy, roadmap, presales and delivery in a growing agency: a 30-day read-out, three operating-model options worked through with the leadership team, three mechanisms that matter more than the org chart (an estimate gate, a protected internal-initiatives budget, one blended onshore/nearshore/offshore delivery playbook), and monthly measures.
+The [90-day plan](90_DAY_OPERATING_MODEL_PLAN.md) shows how I would balance presales, delivery, internal initiatives and partner work. It starts with immediate reversible improvements, compares decision rights, and pilots estimate and handoff gates before recommending wider change. The measures have definitions and owners so the CEO can use them.
 
-## Which bids it answers
-Part-time or fractional CTO roles in agencies, consultancies and professional-services firms, especially those with blended-shore delivery and key technology partners.
-
-## How to use it
-Read the plan (about 5 minutes). There is no code to run. It is a starting document to adapt with a real leadership team.
-
-## Limits
-Fictional organization. Options and measures are a starting point for discussion, not a prescription.
+This supports agency, consultancy and services CTO discussions. It was originally considered for BIMM; the exact current posting has not been verified. It demonstrates an approach for a fictional organization, not a past agency outcome. No code to run. Publication requires owner approval.
