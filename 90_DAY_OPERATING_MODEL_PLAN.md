@@ -61,4 +61,4 @@ Day-90 acceptance requires two sampled projects using the agreed estimate and ha
 | Handoff quality | Escaped defects by severity per accepted handoff; quality lead; show sample size/context | Improve the transfer; do not rank locations on raw counts |
 | Internal work | Accepted increments against approved scope/time/capacity; product owner | Continue, reduce or stop an accelerator based on use/value |
 
-Targets follow the baseline and CEO agreement. This sample contains no actual agency measurements and makes no claim that a particular model raises win rate or margin. It is suitable for agency CTO mandates including the category originally considered for BIMM; an exact current BIMM job description has not been supplied, so exact-role fit remains unverified.
+Targets follow the baseline and CEO agreement. This sample contains no actual agency measurements and makes no claim that a particular model raises win rate or margin. It is intended for agency CTO mandates; fit to a specific role must be checked against that role's actual description.
